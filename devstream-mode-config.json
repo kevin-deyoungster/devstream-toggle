@@ -1,0 +1,12 @@
+{
+    "enabled": false,
+    "dockItemsToRestore": [],
+    "devstreamApps": [
+        "/Applications/Visual Studio Code.app/",
+        "/Applications/OBS.app/",
+        "/Applications/Arc.app/",
+        "/Applications/Godot.app/",
+        "/Applications/Panda.app/"
+    ],
+    "shouldOpenDevStreamApps": false
+}
